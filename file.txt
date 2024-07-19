@@ -1,3 +1,4 @@
 hi index changes check
 second line add
 tree add
+foure lone add
